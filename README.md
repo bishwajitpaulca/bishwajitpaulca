@@ -1,11 +1,13 @@
--👀 I’m interested in data analysis, machine learning, and data visualization.
-🌱 I’m currently learning : Data Analytics, Big Data, and Predictive Analytics
-💞️ I’m looking to collaborate on projects related to data analysis and predictive modeling.
-📫 How to reach me: You can reach me via email at paulbishca@gmail.com or connect with me on LinkedIn: https://www.linkedin.com/in/bishwajitpaul/
-😄 Pronouns: He/him
-⚡ Fun fact: I enjoy experimenting with new programming languages in my free time.
+# Hi there, I'm Bishwajit Paul 👋
 
-<!---
-bishwajitpaulca/bishwajitpaulca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 **Data Enthusiast | Machine Learning Explorer | Visualization Fan** 
+
+👀 **Interests:** Data Analysis, Machine Learning, Data Visualization  
+🌱 **Currently Learning:** Data Analytics, Big Data, Predictive Analytics  
+💞️ **Collaboration:** Open to projects on data analysis, predictive modeling, and analytics pipelines  
+📫 **Connect with me:**  
+- Email: [paulbishca@gmail.com](mailto:paulbishca@gmail.com)  
+- LinkedIn: [linkedin.com/in/bishwajitpaul](https://www.linkedin.com/in/bishwajitpaul/)  
+😄 **Pronouns:** He/Him  
+⚡ **Fun Fact:** I love experimenting with new programming languages and tech in my free time!  
+💻 **Tech & Tools I Use:** Python, SQL, Pandas, Matplotlib, Seaborn, Scikit-learn, Tableau  
