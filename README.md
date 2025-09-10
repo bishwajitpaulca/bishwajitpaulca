@@ -28,3 +28,7 @@ LinkedIn: linkedin.com/in/bishwajitpaul
 
 ⚡ Fun Fact
 I love experimenting with new programming languages and emerging tech in my free time!
+
+PROJECT:
+
+https://github.com/bishwajitpaulca/Predictive-Analysis-Walmart/blob/main/Predective%20Model_Walmart.ipynb
