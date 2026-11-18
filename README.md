@@ -1,25 +1,53 @@
-Hi there, I'm Bishwajit Paul 👋
-🎓 Certified Data Analyst | 🌟 Data Enthusiast | 🤖 Machine Learning Explorer | 📊 Visualization Fan
+# Hi, I'm Bishwajit Paul 👋
+**Certified Data Analyst | Procurement & Supply Chain Analytics | Business Intelligence | Predictive Analytics**
 
-I'm a data professional passionate about transforming raw data into meaningful insights and actionable intelligence. I enjoy the entire data lifecycle, from wrangling and analysis to building predictive models and creating compelling visualizations.
+🎓 MBA (Accounting) | MCIPS | NISCL-CSCL / CSCMP | Certificate in Data Analytics – Toronto Metropolitan University
 
-🔧 Tech & Tools
-Programming: Python, SQL
-Data Analysis & ML: Pandas, NumPy, Scikit-learn, Statsmodels
-Data Visualization: Matplotlib, Seaborn, Tableau
-Big Data & Cloud: Currently Exploring
+I am a data-driven procurement and supply chain professional with extensive international experience transforming complex business and operational data into actionable insights, measurable commercial value, and strategic decisions.
 
-🌱 Currently Learning
-I'm continuously deepening my knowledge in Advanced Data Analytics, Big Data frameworks, and Predictive Analytics to solve more complex problems.
+My expertise bridges **business analytics, strategic sourcing, procurement transformation, financial analysis, and supply chain optimization**. I leverage data analytics and visualization to identify cost-saving opportunities, improve supplier performance, optimize operational efficiency, strengthen procurement governance, and support executive decision-making.
 
-💼 Looking to Collaborate
-I'm open to collaborating on projects involving:
+### 🔧 Technical Skills & Tools
 
-Data Analysis and Business Intelligence
+- **Programming & Query Languages:** Python, SQL
+- **Data Analytics:** Pandas, NumPy, Statistical Analysis, Exploratory Data Analysis
+- **Business Intelligence & Visualization:** Power BI, DAX, Tableau, Excel
+- **Predictive Analytics & Machine Learning:** Scikit-learn, Statsmodels, Predictive Modeling, Forecasting
+- **Big Data & Data Engineering:** Azure Databricks, PySpark, ETL, Data Transformation
+- **Databases:** SQL Server, MySQL, PostgreSQL, BigQuery
+- **Business Applications:** SAP, Coupa, Procurement Analytics, Spend Analysis, Supplier Performance Analytics
 
-Predictive Modeling and Machine Learning
+### 📊 Areas of Expertise
 
-Building end-to-end Analytics Pipelines
+- Procurement & Supply Chain Analytics
+- Strategic Sourcing & Spend Optimization
+- Business Intelligence & Executive Reporting
+- Predictive Analytics & Demand Forecasting
+- Supplier Performance & Risk Analysis
+- Financial and Cost Analysis
+- Data Modeling & Dashboard Development
+- Process Automation & Operational Excellence
+
+### 💼 Business Impact
+
+I focus on translating analytics into measurable business outcomes, including **$1.5M+ in cumulative procurement savings**, improved supplier performance, stronger procurement compliance, and data-driven operational improvements.
+
+My approach combines analytical thinking, commercial understanding, and technology to solve real-world business challenges.
+
+### 🌱 Continuous Learning & Collaboration
+
+I continuously explore advanced analytics, machine learning, big data technologies, and emerging AI applications to enhance business intelligence and decision-making.
+
+I welcome opportunities to collaborate on:
+
+- Business Intelligence and Data Analytics
+- Procurement and Supply Chain Analytics
+- Predictive Modeling and Forecasting
+- Data Engineering and Analytics Pipelines
+- Spend Analytics and Cost Optimization
+- Data-Driven Business Transformation
+
+**My objective is simple: turn data into intelligence, intelligence into strategy, and strategy into measurable business value.**
 
 📫 How to Reach Me
 Email: paulbishca@gmail.com
